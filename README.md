@@ -1,4 +1,4 @@
-# Awesome Free Developer Resources
+# Developer Resources
 
 ## Table Of Contents:
 
